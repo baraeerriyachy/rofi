@@ -3,7 +3,7 @@
 My configuration files for rofi
 ```
 # Requirement
- - [Features](https://github.com/davatorium/rofi)
+ - [Rofi](https://github.com/davatorium/rofi)
 # Installation
 ```
 git clone https://github.com/baraeerriyachy/rofi.git
