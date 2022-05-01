@@ -4,7 +4,6 @@ configuration {
 	drun-display-format: "{icon} {name}";
 	window-format: "{w} {c}  {t}";
 	show-icons: true;
-	icon-theme: "papirus";
 	fake-transparency: true;
 	sidebar-mode: false;
 }
